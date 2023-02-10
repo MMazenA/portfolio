@@ -1,16 +1,16 @@
 {
   "name": "Mazen",
   "headerTaglineOne": "Hello",
-  "headerTaglineTwo": "I'm Mazen Mirza - curious",
-  "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "headerTaglineTwo":  "I'm Mazen Mirza",
+  "headerTaglineThree": "I'm a passionate Software Engineer,",
+  "headerTaglineFour": " who's always eager to expand my skills and knowledge.",
   "showBlog": true,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/MMazenA/"
     },
     {
       "id": "2",
