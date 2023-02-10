@@ -3,7 +3,7 @@
 A simple portfolio website to showcase my work.
 
 ---
-Produced from this [template](https://github.com/chetanverma16/react-portfolio-template)
+Produced from this [template](https://github.com/chetanverma16/react-portfolio-template) and slightly modified by me.
 
 Credits below
 ## Awesome Contributors
