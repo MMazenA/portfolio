@@ -2,9 +2,9 @@
   "name": "Mazen",
   "headerTaglineOne": "Hello",
   "headerTaglineTwo":  "I'm Mazen Mirza",
-  "headerTaglineThree": "I'm a passionate Software Engineer,",
-  "headerTaglineFour": " who's always eager to expand my skills and knowledge.",
-  "showBlog": true,
+  "headerTaglineThree": "Passionate Software Dev,",
+  "headerTaglineFour": "Eager to expand my skills",
+  "showBlog": false,
   "darkMode": true,
   "socials": [
     {
@@ -17,13 +17,8 @@
       "title": "LinkedIn",
       "link": "https://www.linkedin.com/in/chetanverma7/"
     },
-    {
-      "id": "3",
-      "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
-    },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+    { "id": "3", "title": "Blog", "link": "https://blog.chetanverma.com/" },
+    { "id": "4", "title": "Email", "link": "mailto:hello@chetanverma.com" }
   ],
   "projects": [
     {
