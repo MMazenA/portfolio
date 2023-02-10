@@ -12,6 +12,11 @@ body {
   @apply dark:bg-black dark:text-white;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 .gradient-circle {
   position: absolute;
   pointer-events: none;
