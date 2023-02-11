@@ -38,7 +38,7 @@
     {
       "id": "3",
       "title": "Covid Analysis",
-      "description": "Data Science",
+      "description": "Data Science <br/> testing", 
       "imageSrc": "https://i.imgur.com/ap6bThg.png",
       "url": "https://github.com/MMazenA/CovidTracker"
     }
@@ -65,7 +65,7 @@
       "description": "Analyzed different algorithm techniques and how to produce code with low Big O runtimes."
     }
   ],
-  "aboutpara": "I am a second year Computer Science student at Wayne State University. I am on track to graduate to graduate in 2024 with a 4.0 GPA. I really enjoy learning to code and try to absorb as much knowledge as possible before I graduate. I am currently searching for internships that will push me academiclly. ",
+  "aboutpara": "I am a second year Computer Science student at Wayne State University. I am on track to graduate to graduate in 2024 with a 4.0 GPA. I really enjoy learning to code and try to absorb as much knowledge as possible before I graduate. I am currently searching for internships that will push me academically. ",
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer, and maker.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
