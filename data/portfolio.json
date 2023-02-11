@@ -26,21 +26,30 @@
       "title": "Spotify Tracker",
       "description": "Full Stack Web Application",
       "imageSrc": "https://imgur.com/Kz8X6eY.png",
-      "url": "http://mazenmirza.com/"
+      "url": "http://mazenmirza.com/",
+      "languages": "Python",
+      "tools":"Git",
+      "frameworks":"Flask"
     },
     {
       "id": "2",
       "title": "Schedule Works",
       "description": "Desktop Application",
       "imageSrc": "https://i.imgur.com/UMLmqwq.png",
-      "url": "https://github.com/WSU-4110/ScheduleWorks"
+      "url": "https://github.com/WSU-4110/ScheduleWorks",
+      "languages": "Python",
+      "tools":"Git",
+      "frameworks":"Flask"
     },
     {
       "id": "3",
       "title": "Covid Analysis",
       "description": "Data Science", 
       "imageSrc": "https://i.imgur.com/ap6bThg.png",
-      "url": "https://github.com/MMazenA/CovidTracker"
+      "url": "https://github.com/MMazenA/CovidTracker",
+      "languages": "Python",
+      "tools":"Git",
+      "frameworks":"Flask"
     }
   ],
   "services": [
