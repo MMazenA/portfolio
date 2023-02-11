@@ -38,7 +38,7 @@
     {
       "id": "3",
       "title": "Covid Analysis",
-      "description": "Data Science {'\n'} testing", 
+      "description": "Data Science &NewLine; testing", 
       "imageSrc": "https://i.imgur.com/ap6bThg.png",
       "url": "https://github.com/MMazenA/CovidTracker"
     }
