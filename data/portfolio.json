@@ -35,7 +35,7 @@
         "id": "2",
         "title": "Schedule Works",
         "description": "Desktop Application",
-        "imageSrc": "https://i.imgur.com/UMLmqwq.png",
+        "imageSrc": "https://i.imgur.com/tReXUQ4.png",
         "url": "https://github.com/WSU-4110/ScheduleWorks",
         "languages": "Languages: Python, Java",
         "tools":"Tools: Git, NetworkX, bs4",
