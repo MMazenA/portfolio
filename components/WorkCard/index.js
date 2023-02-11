@@ -1,6 +1,6 @@
 import React from "react";
 
-const WorkCard = ({ img, name, description, onClick }) => {
+const WorkCard = ({ img, name, tools, languages, frameworks, description, onClick }) => {
   return (
     <div
       className="overflow-hidden rounded-lg p-2 laptop:p-4 first:ml-0 link"
@@ -21,6 +21,15 @@ const WorkCard = ({ img, name, description, onClick }) => {
       </h1>
       <h2 className="text-xl opacity-50">
         {description ? description : "Description"}
+      </h2>
+      <h2 className="text-xl opacity-50">
+        {languages ? languages : "Languages"}
+      </h2>
+      <h2 className="text-xl opacity-50">
+        {frameworks ? frameworks : "Frameworks"}
+      </h2>
+      <h2 className="text-xl opacity-50">
+        {tools ? tools : "Tools"}
       </h2>
     </div>
   );
