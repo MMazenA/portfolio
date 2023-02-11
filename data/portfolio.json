@@ -1,109 +1,109 @@
 {
-  "name": "Mazen",
-  "headerTaglineOne": "Hello",
-  "headerTaglineTwo":  "I'm Mazen Mirza",
-  "headerTaglineThree": "Passionate Software Dev",
-  "headerTaglineFour": "Eager to expand my skills",
-  "showBlog": false,
-  "darkMode": true,
-  "socials": [
-    {
-      "id": "1",
-      "title": "Github",
-      "link": "https://github.com/MMazenA/"
-    },
-    {
-      "id": "2",
-      "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/mazen-mirza/"
-    },
-    
-    { "id": "3", "title": "Email", "link": "mailto:hh8001@wayne.edu" }
-  ],
-  "projects": [
-    {
-      "id": "1",
-      "title": "Spotify Tracker",
-      "description": "Type: Full Stack Web Application",
-      "imageSrc": "https://imgur.com/Kz8X6eY.png",
-      "url": "http://mazenmirza.com/",
-      "languages": "Languages: Python, Javascript, HTML, CSS, SQL",
-      "tools":"Tools: Git, phpMyAdmin, Multi-Threading, Requests",
-      "frameworks":"Frameworks: Flask, SSE, uwsgi, nginx"
-    },
-    {
-      "id": "2",
-      "title": "Schedule Works",
-      "description": "Desktop Application",
-      "imageSrc": "https://i.imgur.com/UMLmqwq.png",
-      "url": "https://github.com/WSU-4110/ScheduleWorks",
-      "languages": "Languages: Python, Java",
-      "tools":"Tools: Git, NetworkX, bs4,"
-      "frameworks":"Frameworks: Selenium, JavaFX"
-    },
-    {
-      "id": "3",
-      "title": "Covid Analysis",
-      "description": "Data Science", 
-      "imageSrc": "https://i.imgur.com/ap6bThg.png",
-      "url": "https://github.com/MMazenA/CovidTracker",
-      "languages": "Languages: Python, Juypter Notebook",
-      "tools":"Tools: Stastical metrics, Matplotlib, Pandas, Geopandas, Sklearn, Scipy",
-      "frameworks":"Frameworks: Flask"
-    }
-  ],
-  "services": [
-    {
-      "id": "1",
-      "title": "Software Engineering",
-      "description": "Learned about software lifecycle, design, maintenance, quality, and testing."
-    },
-    {
-      "id": "2",
-      "title": "Java Programming",
-      "description": "Developed skills in producing Object-oriented Java programs and learned what software development using Java entails."
-    },
-    {
-      "id": "3",
-      "title": "Computer Architecture and Organization",
-      "description": "Produced assembly code modeled after circuit designs and learned about internal processor structures"
-    },
-    {
-      "id": "4",
-      "title": "Algorithm Design and Analysis",
-      "description": "Analyzed different algorithm techniques and how to produce/design code with those methods to create efficient programs."
-    }
-  ],
-  "aboutpara": "I am a second year Computer Science student at Wayne State University. I am on track to graduate to graduate in 2024 with a 4.0 GPA. I really enjoy learning to code and try to absorb as much knowledge as possible before I graduate. I am currently searching for internships that will push me academically. ",
-  "resume": {
-    "tagline": "👋  I'm a software engineer, product designer, and maker.",
-    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
-    "experiences": [
+    "name": "Mazen",
+    "headerTaglineOne": "Hello",
+    "headerTaglineTwo":  "I'm Mazen Mirza",
+    "headerTaglineThree": "Passionate Software Dev",
+    "headerTaglineFour": "Eager to expand my skills",
+    "showBlog": false,
+    "darkMode": true,
+    "socials": [
       {
         "id": "1",
-        "dates": "March 2022 - Present",
-        "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": [
-          "Worked on the frontend of a React application",
-          "Worked on the frontend of a React application"
-        ]
+        "title": "Github",
+        "link": "https://github.com/MMazenA/"
       },
       {
         "id": "2",
-        "dates": "March 2020 - March 2022",
-        "type": "Full Time",
-        "position": "Frontend Engineer at X",
-        "bullets": ["Worked on the frontend of a React application"]
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/mazen-mirza/"
+      },
+      
+      { "id": "3", "title": "Email", "link": "mailto:hh8001@wayne.edu" }
+    ],
+    "projects": [
+      {
+        "id": "1",
+        "title": "Spotify Tracker",
+        "description": "Type: Full Stack Web Application",
+        "imageSrc": "https://imgur.com/Kz8X6eY.png",
+        "url": "http://mazenmirza.com/",
+        "languages": "Languages: Python, Javascript, HTML, CSS, SQL",
+        "tools":"Tools: Git, phpMyAdmin, Multi-Threading, Requests",
+        "frameworks":"Frameworks: Flask, SSE, uwsgi, nginx"
+      },
+      {
+        "id": "2",
+        "title": "Schedule Works",
+        "description": "Desktop Application",
+        "imageSrc": "https://i.imgur.com/UMLmqwq.png",
+        "url": "https://github.com/WSU-4110/ScheduleWorks",
+        "languages": "Languages: Python, Java",
+        "tools":"Tools: Git, NetworkX, bs4",
+        "frameworks":"Frameworks: Selenium, JavaFX"
+      },
+      {
+        "id": "3",
+        "title": "Covid Analysis",
+        "description": "Data Science", 
+        "imageSrc": "https://i.imgur.com/ap6bThg.png",
+        "url": "https://github.com/MMazenA/CovidTracker",
+        "languages": "Languages: Python, Juypter Notebook",
+        "tools":"Tools: Stastical metrics, Matplotlib, Pandas, Geopandas, Sklearn, Scipy",
+        "frameworks":"Frameworks: Flask"
       }
     ],
-    "education": {
-      "universityName": "University X",
-      "universityDate": "2016-2020",
-      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
-    },
-    "languages": ["Javascript", "HTML5", "CSS", "Python"],
-    "frameworks": ["React", "Typescript", "NodeJs"],
-    "others": ["Figma", "AdobeXD", "AWS"]
+    "services": [
+      {
+        "id": "1",
+        "title": "Software Engineering",
+        "description": "Learned about software lifecycle, design, maintenance, quality, and testing."
+      },
+      {
+        "id": "2",
+        "title": "Java Programming",
+        "description": "Developed skills in producing Object-oriented Java programs and learned what software development using Java entails."
+      },
+      {
+        "id": "3",
+        "title": "Computer Architecture and Organization",
+        "description": "Produced assembly code modeled after circuit designs and learned about internal processor structures"
+      },
+      {
+        "id": "4",
+        "title": "Algorithm Design and Analysis",
+        "description": "Analyzed different algorithm techniques and how to produce/design code with those methods to create efficient programs."
+      }
+    ],
+    "aboutpara": "I am a second year Computer Science student at Wayne State University. I am on track to graduate to graduate in 2024 with a 4.0 GPA. I really enjoy learning to code and try to absorb as much knowledge as possible before I graduate. I am currently searching for internships that will push me academically. ",
+    "resume": {
+      "tagline": "👋  I'm a software engineer, product designer, and maker.",
+      "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+      "experiences": [
+        {
+          "id": "1",
+          "dates": "March 2022 - Present",
+          "type": "Full Time",
+          "position": "Frontend Engineer at X",
+          "bullets": [
+            "Worked on the frontend of a React application",
+            "Worked on the frontend of a React application"
+          ]
+        },
+        {
+          "id": "2",
+          "dates": "March 2020 - March 2022",
+          "type": "Full Time",
+          "position": "Frontend Engineer at X",
+          "bullets": ["Worked on the frontend of a React application"]
+        }
+      ],
+      "education": {
+        "universityName": "University X",
+        "universityDate": "2016-2020",
+        "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      },
+      "languages": ["Javascript", "HTML5", "CSS", "Python"],
+      "frameworks": ["React", "Typescript", "NodeJs"],
+      "others": ["Figma", "AdobeXD", "AWS"]
+    }
   }
-}
