@@ -48,8 +48,8 @@
         "imageSrc": "https://i.imgur.com/ap6bThg.png",
         "url": "https://github.com/MMazenA/CovidTracker",
         "languages": "Languages: Python, Juypter Notebook",
-        "tools":"Tools: Stastical metrics, Matplotlib, Pandas, Geopandas, Sklearn, Scipy",
-        "frameworks":"Frameworks: Flask"
+        "tools":"Tools: Stastical metrics, Matplotlib, Pandas, Geopandas, Scipy",
+        "frameworks":"Frameworks: Sklearn"
       }
     ],
     "services": [
