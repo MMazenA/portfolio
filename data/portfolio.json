@@ -24,12 +24,12 @@
       {
         "id": "1",
         "title": "Spotify Tracker",
-        "description": "Type: Full Stack Web Application",
+        "description": "Full Stack Web Application",
         "imageSrc": "https://i.imgur.com/WgGUyof.png",
         "url": "http://mazenmirza.com/",
         "languages": "Languages: Python, Javascript, HTML, CSS, SQL",
         "tools":"Tools: Git, phpMyAdmin, Multi-Threading, Requests",
-        "frameworks":"Frameworks: Flask, SSE, uwsgi, nginx"
+        "frameworks":"Frameworks: Flask, SSE, uwsgi, nginx, Jinja2"
       },
       {
         "id": "2",
@@ -72,6 +72,16 @@
         "id": "4",
         "title": "Algorithm Design and Analysis",
         "description": "Analyzed different algorithm techniques and how to produce/design code with those methods to create efficient programs."
+      },
+      {
+        "id": "5",
+        "title": "Principles of Cyber Security",
+        "description": "Learned practical implemention of security practices, compliance, and monitoring at a cost-effective and industry level."
+      },
+      {
+        "id": "6",
+        "title": "Introduction to Database Management Systems ",
+        "description": "Learned how to develop ER diagrams, relational models and how to write SQL queries and PHP forms."
       }
     ],
     "aboutpara": "I am a second year Computer Science student at Wayne State University. I am on track to graduate to graduate in 2024 with a 4.0 GPA. I really enjoy learning to code and try to absorb as much knowledge as possible before I graduate. I am currently searching for internships that will push me academically. ",
