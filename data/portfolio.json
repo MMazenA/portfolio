@@ -43,7 +43,7 @@
       "url": "https://github.com/MMazenA/CovidTracker"
     }
   ],
-  "Courses": [
+  "services": [
     {
       "id": "1",
       "title": "Software Engineering",
