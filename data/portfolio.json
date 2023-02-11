@@ -2,7 +2,7 @@
   "name": "Mazen",
   "headerTaglineOne": "Hello",
   "headerTaglineTwo":  "I'm Mazen Mirza",
-  "headerTaglineThree": "Passionate Software Dev,",
+  "headerTaglineThree": "Passionate Software Dev",
   "headerTaglineFour": "Eager to expand my skills",
   "showBlog": false,
   "darkMode": true,
@@ -24,12 +24,12 @@
     {
       "id": "1",
       "title": "Spotify Tracker",
-      "description": "Full Stack Web Application",
+      "description": "Type: Full Stack Web Application",
       "imageSrc": "https://imgur.com/Kz8X6eY.png",
       "url": "http://mazenmirza.com/",
-      "languages": "Python",
-      "tools":"Git",
-      "frameworks":"Flask"
+      "languages": "Languages: Python, Javascript, HTML, CSS, SQL",
+      "tools":"Tools: Git, phpMyAdmin, Multi-Threading, Requests",
+      "frameworks":"Frameworks: Flask, SSE, uwsgi, nginx"
     },
     {
       "id": "2",
@@ -37,9 +37,9 @@
       "description": "Desktop Application",
       "imageSrc": "https://i.imgur.com/UMLmqwq.png",
       "url": "https://github.com/WSU-4110/ScheduleWorks",
-      "languages": "Python",
-      "tools":"Git",
-      "frameworks":"Flask"
+      "languages": "Languages: Python, Java",
+      "tools":"Tools: Git, NetworkX, bs4,"
+      "frameworks":"Frameworks: Selenium, JavaFX"
     },
     {
       "id": "3",
@@ -47,9 +47,9 @@
       "description": "Data Science", 
       "imageSrc": "https://i.imgur.com/ap6bThg.png",
       "url": "https://github.com/MMazenA/CovidTracker",
-      "languages": "Python",
-      "tools":"Git",
-      "frameworks":"Flask"
+      "languages": "Languages: Python, Juypter Notebook",
+      "tools":"Tools: Stastical metrics, Matplotlib, Pandas, Geopandas, Sklearn, Scipy",
+      "frameworks":"Frameworks: Flask"
     }
   ],
   "services": [
@@ -61,17 +61,17 @@
     {
       "id": "2",
       "title": "Java Programming",
-      "description": "Devoloped skills in java such as inheritance and interfaces along with other OOP principles"
+      "description": "Developed skills in producing Object-oriented Java programs and learned what software development using Java entails."
     },
     {
       "id": "3",
       "title": "Computer Architecture and Organization",
-      "description": "Produced assembaly code modeled after circuit designs and learned about internal structures."
+      "description": "Produced assembly code modeled after circuit designs and learned about internal processor structures"
     },
     {
       "id": "4",
       "title": "Algorithm Design and Analysis",
-      "description": "Analyzed different algorithm techniques and how to produce code with low Big O runtimes."
+      "description": "Analyzed different algorithm techniques and how to produce/design code with those methods to create efficient programs."
     }
   ],
   "aboutpara": "I am a second year Computer Science student at Wayne State University. I am on track to graduate to graduate in 2024 with a 4.0 GPA. I really enjoy learning to code and try to absorb as much knowledge as possible before I graduate. I am currently searching for internships that will push me academically. ",
